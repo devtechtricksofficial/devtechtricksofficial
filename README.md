@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome to DevTechTricks
 
-<!--
-**devtechtricksofficial/devtechtricksofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Learn. Build. Optimize.**
 
-Here are some ideas to get you started:
+DevTechTricks is a developer-focused platform sharing practical programming knowledge, backend engineering concepts, and open-source tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What We Cover
+
+- JavaScript & TypeScript
+- Node.js & Backend Development
+- MongoDB & PostgreSQL
+- REST APIs & Microservices
+- System Design & Scalability
+- Redis & Backend Performance
+- AI Engineering & MCP Servers
+
+### 🛠️ Our Open Source Projects
+
+Explore practical examples, developer tools, and projects designed to solve real-world engineering problems.
+
+### 📚 Learn With Us
+
+- Instagram: https://www.instagram.com/dev.techtricks/
+- YouTube: https://www.youtube.com/@devtechtricks
+- Blog: https://techglimpz.blogspot.com/
+
+### 💡 Our Goal
+
+Make complex development concepts easier to understand through practical examples and real-world engineering insights.
+
+**Keep Learning. Keep Building.**
