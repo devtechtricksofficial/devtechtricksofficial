@@ -22,7 +22,7 @@ Explore practical examples, developer tools, and projects designed to solve real
 
 - Instagram: https://www.instagram.com/dev.techtricks/
 - YouTube: https://www.youtube.com/@devtechtricks
-- Blog: https://techglimpz.blogspot.com/
+- Facebook: https://www.facebook.com/dev.techtrick/
 
 ### 💡 Our Goal
 
